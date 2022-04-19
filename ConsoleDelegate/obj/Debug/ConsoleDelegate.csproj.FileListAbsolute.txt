@@ -1,0 +1,6 @@
+C:\Users\Mert\source\repos\Csharp4\ConsoleDelegate\bin\Debug\ConsoleDelegate.exe.config
+C:\Users\Mert\source\repos\Csharp4\ConsoleDelegate\bin\Debug\ConsoleDelegate.exe
+C:\Users\Mert\source\repos\Csharp4\ConsoleDelegate\bin\Debug\ConsoleDelegate.pdb
+C:\Users\Mert\source\repos\Csharp4\ConsoleDelegate\obj\Debug\ConsoleDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Csharp4\ConsoleDelegate\obj\Debug\ConsoleDelegate.exe
+C:\Users\Mert\source\repos\Csharp4\ConsoleDelegate\obj\Debug\ConsoleDelegate.pdb
